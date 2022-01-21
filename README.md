@@ -7,3 +7,5 @@ ISTQB - CTFL Multiple Choice Questions
 All questions have 1-5 Options, you can use the answers to test yourself.
 
 The cards cover all the Chapters from the latest ISTQB-CTFL revision. (~230 Cards)
+
+You can manually import the deck using the .apkg file from this repository.
